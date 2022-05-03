@@ -40,6 +40,14 @@ hr{
     background-color: #f29e33;
 }
 
+#pink{
+    background-color: #d863a1;
+}
+
+#yellow{
+    background-color: #b0c926;
+}
+
 .container{
     height: 100px;
     background-color: #ffff;
@@ -50,6 +58,9 @@ hr{
     margin: 0 auto;
     background-color: #ffff;
     margin-top: 50px;
+    margin-bottom: 50px;
+    padding-bottom: 40px;
+    border-radius: 5px;
 }
 
 .contanier-content{
@@ -122,7 +133,8 @@ hr{
 }
 
 .tag{
-    font-size: 15px;
+    font-size: 13px;
+    font-weight: 500;
     color: #ffff;
     background-color: #45abea;
     padding: 5px 10px;
